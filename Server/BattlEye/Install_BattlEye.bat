@@ -1,0 +1,3 @@
+@echo off
+echo Installing BattlEye...
+..\EscapeFromTarkov_BE.exe 1 0

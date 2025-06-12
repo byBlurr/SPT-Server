@@ -1,0 +1,52 @@
+[2025-06-12T20:55:30.417Z] debug: 	Importing configs...
+[2025-06-12T20:55:30.559Z] info: 	Commit hash: 7a9a346bb2a08bffb965150784ca7869741804b1
+[2025-06-12T20:55:30.559Z] info: 	Build date: 1744140374083
+[2025-06-12T20:55:30.685Z] info: 	ModLoader: user/mod folder missing, creating...
+[2025-06-12T20:55:30.711Z] info: 	Server: executing startup callbacks...
+[2025-06-12T20:55:30.711Z] debug: 	OS: x64 | Windows 10 Home | win32
+[2025-06-12T20:55:30.712Z] debug: 	CPU: AMD Ryzen 7 5700X 8-Core Processor              cores: 16
+[2025-06-12T20:55:30.712Z] debug: 	RAM: 63.94GB
+[2025-06-12T20:55:30.712Z] debug: 	PATH: RzpcU1BUXDMuMTFcQ2xpZW50XFNQVC5TZXJ2ZXIuZXhl
+[2025-06-12T20:55:30.712Z] debug: 	PATH: RzpcU1BUXDMuMTFcQ2xpZW50XFNQVC5TZXJ2ZXIuZXhl
+[2025-06-12T20:55:30.712Z] debug: 	Server: 3.11.3
+[2025-06-12T20:55:30.712Z] debug: 	Node: 22.12.0
+[2025-06-12T20:55:30.712Z] debug: 	Date: 1744140374083
+[2025-06-12T20:55:30.712Z] debug: 	Commit: 7a9a346bb2a08bffb965150784ca7869741804b1
+[2025-06-12T20:55:30.722Z] info: 	Importing database...
+[2025-06-12T20:55:59.215Z] info: 	Database import finished
+[2025-06-12T20:55:59.215Z] debug: 	Database import took 28.4926s
+[2025-06-12T20:55:59.226Z] debug: 	Database ID validation took 1.216ms
+[2025-06-12T20:56:02.128Z] debug: 	Generating self-signed SSL certificate took: 2.8972s
+[2025-06-12T20:56:02.157Z] succ: 	Started webserver at https://127.0.0.1:6969
+[2025-06-12T20:56:02.158Z] succ: 	Started websocket at wss://127.0.0.1:6969
+[2025-06-12T20:56:02.158Z] succ: 	Server is running, do not close while playing SPT, Server has started, happy playing!!
+[2025-06-12T20:56:02.158Z] debug: 	No profiles to backup
+[2025-06-12T20:56:02.159Z] debug: 	Loading 0 profile took 0.003ms
+[2025-06-12T20:56:10.878Z] debug: 	Saving 0 profile took 0.004ms
+[2025-06-12T20:56:30.885Z] debug: 	Saving 0 profile took 0.009ms
+[2025-06-12T20:56:50.906Z] debug: 	Saving 0 profile took 0.012ms
+[2025-06-12T20:57:10.918Z] debug: 	Saving 0 profile took 0.006ms
+[2025-06-12T20:57:21.143Z] debug: 	Importing configs...
+[2025-06-12T20:57:21.277Z] info: 	Commit hash: 7a9a346bb2a08bffb965150784ca7869741804b1
+[2025-06-12T20:57:21.278Z] info: 	Build date: 1744140374083
+[2025-06-12T20:57:21.421Z] info: 	ModLoader: loading: 0 server mods...
+[2025-06-12T20:57:21.421Z] info: 	ModLoader: order.json is missing, creating...
+[2025-06-12T20:57:21.454Z] info: 	Server: executing startup callbacks...
+[2025-06-12T20:57:21.455Z] debug: 	OS: x64 | Windows 10 Home | win32
+[2025-06-12T20:57:21.455Z] debug: 	CPU: AMD Ryzen 7 5700X 8-Core Processor              cores: 16
+[2025-06-12T20:57:21.455Z] debug: 	RAM: 63.94GB
+[2025-06-12T20:57:21.455Z] debug: 	PATH: RzpcU1BUXDMuMTFcU2VydmVyXFNQVC5TZXJ2ZXIuZXhl
+[2025-06-12T20:57:21.456Z] debug: 	PATH: RzpcU1BUXDMuMTFcU2VydmVyXFNQVC5TZXJ2ZXIuZXhl
+[2025-06-12T20:57:21.456Z] debug: 	Server: 3.11.3
+[2025-06-12T20:57:21.456Z] debug: 	Node: 22.12.0
+[2025-06-12T20:57:21.456Z] debug: 	Date: 1744140374083
+[2025-06-12T20:57:21.456Z] debug: 	Commit: 7a9a346bb2a08bffb965150784ca7869741804b1
+[2025-06-12T20:57:21.465Z] info: 	Importing database...
+[2025-06-12T20:57:25.033Z] info: 	Database import finished
+[2025-06-12T20:57:25.033Z] debug: 	Database import took 3.5681s
+[2025-06-12T20:57:25.042Z] debug: 	Database ID validation took 1.293ms
+[2025-06-12T20:57:25.083Z] succ: 	Started webserver at https://127.0.0.1:6969
+[2025-06-12T20:57:25.083Z] succ: 	Started websocket at wss://127.0.0.1:6969
+[2025-06-12T20:57:25.084Z] succ: 	Server is running, do not close while playing SPT, Server has started, happy playing!!
+[2025-06-12T20:57:25.084Z] debug: 	No profiles to backup
+[2025-06-12T20:57:25.085Z] debug: 	Loading 0 profile took 0.003ms

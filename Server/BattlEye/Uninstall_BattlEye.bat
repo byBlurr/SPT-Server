@@ -1,0 +1,3 @@
+@echo off
+echo Uninstalling BattlEye...
+..\EscapeFromTarkov_BE.exe 4
