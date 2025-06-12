@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IHeadlessRequesterJoinRaid.js",
+    "sourceRoot": "",
+    "sources": [
+        "IHeadlessRequesterJoinRaid.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

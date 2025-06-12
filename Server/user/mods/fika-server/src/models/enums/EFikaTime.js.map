@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "EFikaTime.js",
+    "sourceRoot": "",
+    "sources": [
+        "EFikaTime.ts"
+    ],
+    "names": [],
+    "mappings": ";;;AAAA,IAAY,SAGX;AAHD,WAAY,SAAS;IACjB,yCAAQ,CAAA;IACR,yCAAQ,CAAA;AACZ,CAAC,EAHW,SAAS,yBAAT,SAAS,QAGpB"
+}

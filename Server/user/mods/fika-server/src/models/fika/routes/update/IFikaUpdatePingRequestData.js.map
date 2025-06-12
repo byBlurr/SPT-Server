@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IFikaUpdatePingRequestData.js",
+    "sourceRoot": "",
+    "sources": [
+        "IFikaUpdatePingRequestData.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

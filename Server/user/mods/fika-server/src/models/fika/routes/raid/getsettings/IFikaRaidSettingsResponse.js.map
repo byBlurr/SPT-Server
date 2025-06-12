@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IFikaRaidSettingsResponse.js",
+    "sourceRoot": "",
+    "sources": [
+        "IFikaRaidSettingsResponse.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

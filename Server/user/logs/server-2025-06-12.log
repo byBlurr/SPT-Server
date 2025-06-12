@@ -50,3 +50,29 @@
 [2025-06-12T20:57:25.084Z] succ: 	Server is running, do not close while playing SPT, Server has started, happy playing!!
 [2025-06-12T20:57:25.084Z] debug: 	No profiles to backup
 [2025-06-12T20:57:25.085Z] debug: 	Loading 0 profile took 0.003ms
+[2025-06-12T20:58:02.453Z] debug: 	Importing configs...
+[2025-06-12T20:58:02.493Z] info: 	Commit hash: 7a9a346bb2a08bffb965150784ca7869741804b1
+[2025-06-12T20:58:02.493Z] info: 	Build date: 1744140374083
+[2025-06-12T20:58:02.514Z] info: 	ModLoader: loading: 1 server mods...
+[2025-06-12T20:58:03.078Z] debug: 	Mod fika-server hash stored in ./user/cache/modCache.json
+[2025-06-12T20:58:04.429Z] info: 	Mod: server version: 2.4.8 by: Fika loaded
+[2025-06-12T20:58:04.529Z] info: 	[Fika Server] Overriding SPT configuration
+[2025-06-12T20:58:04.543Z] info: 	Server: executing startup callbacks...
+[2025-06-12T20:58:04.543Z] debug: 	OS: x64 | Windows 10 Home | win32
+[2025-06-12T20:58:04.544Z] debug: 	CPU: AMD Ryzen 7 5700X 8-Core Processor              cores: 16
+[2025-06-12T20:58:04.544Z] debug: 	RAM: 63.94GB
+[2025-06-12T20:58:04.544Z] debug: 	PATH: RzpcU1BUXDMuMTFcU2VydmVyXFNQVC5TZXJ2ZXIuZXhl
+[2025-06-12T20:58:04.544Z] debug: 	PATH: RzpcU1BUXDMuMTFcU2VydmVyXFNQVC5TZXJ2ZXIuZXhl
+[2025-06-12T20:58:04.544Z] debug: 	Server: 3.11.3
+[2025-06-12T20:58:04.544Z] debug: 	Node: 22.12.0
+[2025-06-12T20:58:04.544Z] debug: 	Date: 1744140374083
+[2025-06-12T20:58:04.544Z] debug: 	Commit: 7a9a346bb2a08bffb965150784ca7869741804b1
+[2025-06-12T20:58:04.545Z] info: 	Importing database...
+[2025-06-12T20:58:08.068Z] info: 	Database import finished
+[2025-06-12T20:58:08.068Z] debug: 	Database import took 3.5233s
+[2025-06-12T20:58:08.078Z] debug: 	Database ID validation took 1.289ms
+[2025-06-12T20:58:08.107Z] succ: 	Started webserver at https://0.0.0.0:6969
+[2025-06-12T20:58:08.108Z] succ: 	Started websocket at wss://0.0.0.0:6969
+[2025-06-12T20:58:08.108Z] succ: 	Server is running, do not close while playing SPT, Server has started, happy playing!!
+[2025-06-12T20:58:08.108Z] debug: 	No profiles to backup
+[2025-06-12T20:58:08.109Z] debug: 	Loading 0 profile took 0.003ms

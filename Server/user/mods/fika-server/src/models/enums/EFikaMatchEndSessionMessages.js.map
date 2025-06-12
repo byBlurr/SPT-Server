@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "EFikaMatchEndSessionMessages.js",
+    "sourceRoot": "",
+    "sources": [
+        "EFikaMatchEndSessionMessages.ts"
+    ],
+    "names": [],
+    "mappings": ";;;AAAA,IAAY,2BAIX;AAJD,WAAY,2BAA2B;IACnC,sEAAuC,CAAA;IACvC,oEAAqC,CAAA;IACrC,gEAAiC,CAAA;AACrC,CAAC,EAJW,2BAA2B,2CAA3B,2BAA2B,QAItC"
+}

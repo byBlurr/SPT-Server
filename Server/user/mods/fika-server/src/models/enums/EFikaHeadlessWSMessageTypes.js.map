@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "EFikaHeadlessWSMessageTypes.js",
+    "sourceRoot": "",
+    "sources": [
+        "EFikaHeadlessWSMessageTypes.ts"
+    ],
+    "names": [],
+    "mappings": ";;;AAAA,IAAY,2BAIX;AAJD,WAAY,2BAA2B;IACnC,uFAAa,CAAA;IACb,uGAAqB,CAAA;IACrB,yGAAsB,CAAA;AAC1B,CAAC,EAJW,2BAA2B,2CAA3B,2BAA2B,QAItC"
+}

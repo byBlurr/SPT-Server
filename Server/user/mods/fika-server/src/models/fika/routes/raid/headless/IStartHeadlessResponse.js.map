@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IStartHeadlessResponse.js",
+    "sourceRoot": "",
+    "sources": [
+        "IStartHeadlessResponse.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

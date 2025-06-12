@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "EFikaSide.js",
+    "sourceRoot": "",
+    "sources": [
+        "EFikaSide.ts"
+    ],
+    "names": [],
+    "mappings": ";;;AAAA,IAAY,SAGX;AAHD,WAAY,SAAS;IACjB,uCAAO,CAAA;IACP,6CAAU,CAAA;AACd,CAAC,EAHW,SAAS,yBAAT,SAAS,QAGpB"
+}

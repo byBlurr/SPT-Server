@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IFikaSetPresence.js",
+    "sourceRoot": "",
+    "sources": [
+        "IFikaSetPresence.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

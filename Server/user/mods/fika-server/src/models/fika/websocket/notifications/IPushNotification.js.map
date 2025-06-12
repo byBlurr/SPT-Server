@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IPushNotification.js",
+    "sourceRoot": "",
+    "sources": [
+        "IPushNotification.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

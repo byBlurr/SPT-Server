@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IFikaRaidCreateRequestData.js",
+    "sourceRoot": "",
+    "sources": [
+        "IFikaRaidCreateRequestData.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

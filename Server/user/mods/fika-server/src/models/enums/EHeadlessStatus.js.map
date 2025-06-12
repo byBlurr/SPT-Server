@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "EHeadlessStatus.js",
+    "sourceRoot": "",
+    "sources": [
+        "EHeadlessStatus.ts"
+    ],
+    "names": [],
+    "mappings": ";;;AAAA,IAAY,eAGX;AAHD,WAAY,eAAe;IACvB,uDAAS,CAAA;IACT,2DAAW,CAAA;AACf,CAAC,EAHW,eAAe,+BAAf,eAAe,QAG1B"
+}

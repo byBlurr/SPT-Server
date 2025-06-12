@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IFriendRequestListResponse.js",
+    "sourceRoot": "",
+    "sources": [
+        "IFriendRequestListResponse.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

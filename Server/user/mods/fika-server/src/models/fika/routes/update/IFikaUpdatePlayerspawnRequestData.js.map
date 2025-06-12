@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IFikaUpdatePlayerspawnRequestData.js",
+    "sourceRoot": "",
+    "sources": [
+        "IFikaUpdatePlayerspawnRequestData.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

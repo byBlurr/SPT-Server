@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IFikaCheckModResponse.js",
+    "sourceRoot": "",
+    "sources": [
+        "IFikaCheckModResponse.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

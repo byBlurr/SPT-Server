@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IFikaRaidAddPlayerData.js",
+    "sourceRoot": "",
+    "sources": [
+        "IFikaRaidAddPlayerData.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

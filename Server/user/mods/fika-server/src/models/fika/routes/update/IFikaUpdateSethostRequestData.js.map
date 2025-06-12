@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IFikaUpdateSethostRequestData.js",
+    "sourceRoot": "",
+    "sources": [
+        "IFikaUpdateSethostRequestData.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

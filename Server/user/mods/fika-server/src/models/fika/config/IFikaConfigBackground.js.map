@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IFikaConfigBackground.js",
+    "sourceRoot": "",
+    "sources": [
+        "IFikaConfigBackground.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IFikaHeadlessBase.js",
+    "sourceRoot": "",
+    "sources": [
+        "IFikaHeadlessBase.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IStartRaidNotification.js",
+    "sourceRoot": "",
+    "sources": [
+        "IStartRaidNotification.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

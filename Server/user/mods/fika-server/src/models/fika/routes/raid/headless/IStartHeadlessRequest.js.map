@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IStartHeadlessRequest.js",
+    "sourceRoot": "",
+    "sources": [
+        "IStartHeadlessRequest.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "IHeadlessAvailableClients.js",
+    "sourceRoot": "",
+    "sources": [
+        "IHeadlessAvailableClients.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}
