@@ -6,7 +6,7 @@
 		"allowFreeCam": false,
 		"allowSpectateFreeCam": false,
 		"blacklistedItems": [],
-		"forceSaveOnDeath": false,
+		"forceSaveOnDeath": true,
 		"mods": {
 			"required": [],
 			"optional": []
