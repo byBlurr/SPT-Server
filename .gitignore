@@ -1,2 +1,5 @@
 Client/*
 Server/user/profiles/*
+Server/user/cache/*
+Server/user/logs/*
+Server/user/certs/*
