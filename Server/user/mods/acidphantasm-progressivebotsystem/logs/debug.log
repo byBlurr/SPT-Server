@@ -1,0 +1,9 @@
+6/20/2025, 16:30:26 - Log File Created - APBS Version: 1.8.2
+6/20/2025, 16:30:26 DEBUG - ================================================================================
+6/20/2025, 16:30:26 DEBUG - enableDebugLog is disabled. If you want debug logging, enable it in the config.
+6/20/2025, 16:30:26 DEBUG - This log will only show WARNINGs and ERRORs while enableDebugLog is disabled.
+6/20/2025, 16:30:26 DEBUG - ================================================================================
+6/20/2025, 16:34:30 WARNING - ---Raid Information---
+6/20/2025, 16:34:30 WARNING - Location: factory4_day
+6/20/2025, 16:34:30 WARNING - Time: 15:28
+6/20/2025, 16:34:30 WARNING - Night: false

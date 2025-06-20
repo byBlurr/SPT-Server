@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "APBSIQuestBotGear.js",
+    "sourceRoot": "",
+    "sources": [
+        "APBSIQuestBotGear.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

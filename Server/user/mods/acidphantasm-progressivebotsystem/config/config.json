@@ -1,0 +1,438 @@
+{
+        "usePreset": false,
+        "presetName": "example",
+        "compatibilityConfig": {
+                "enableModdedWeapons": false,
+                "enableModdedEquipment": false,
+                "enableModdedClothing": false,
+                "enableModdedAttachments": false,
+                "initalTierAppearance": 3,
+                "pmcWeaponWeights": 8,
+                "scavWeaponWeights": 1,
+                "followerWeaponWeights": 6,
+                "enableSafeGuard": true,
+                "enableMPRSafeGuard": true,
+                "PackNStrap_UnlootablePMCArmbandBelts": true,
+                "Realism_AddGasMasksToBots": false,
+                "General_SecureContainerAmmoStacks": 20
+        },
+        "normalizedHealthPool": {
+                "enable": false,
+                "healthHead": 35,
+                "healthChest": 85,
+                "healthStomach": 70,
+                "healthLeftArm": 60,
+                "healthRightArm": 60,
+                "healthLeftLeg": 65,
+                "healthRightLeg": 65,
+                "excludedBots": [],
+                "normalizeSkills": false
+        },
+        "generalConfig": {
+                "enablePerWeaponTypeAttachmentChances": true,
+                "enableLargeCapacityMagazineLimit": true,
+                "largeCapacityMagazineCount": 2,
+                "forceStock": false,
+                "stockButtpadChance": 50,
+                "forceDustCover": false,
+                "forceScopeSlot": false,
+                "forceMuzzle": false,
+                "muzzleChance": [
+                        10,
+                        25,
+                        40,
+                        55,
+                        65,
+                        75,
+                        75
+                ],
+                "forceChildrenMuzzle": false,
+                "forceWeaponModLimits": true,
+                "scopeLimit": 2,
+                "tacticalLimit": 1,
+                "onlyChads": false,
+                "tarkovAndChill": false,
+                "blickyMode": false,
+                "enableT7Thermals": false,
+                "startTier": 6,
+                "plateChances": {
+                        "enable": false,
+                        "pmcMainPlateChance": [
+                                65,
+                                75,
+                                90,
+                                90,
+                                95,
+                                100,
+                                100
+                        ],
+                        "pmcSidePlateChance": [
+                                15,
+                                25,
+                                35,
+                                55,
+                                75,
+                                95,
+                                100
+                        ],
+                        "scavMainPlateChance": [
+                                25,
+                                25,
+                                25,
+                                25,
+                                25,
+                                25,
+                                25
+                        ],
+                        "scavSidePlateChance": [
+                                10,
+                                10,
+                                10,
+                                10,
+                                10,
+                                10,
+                                10
+                        ],
+                        "bossMainPlateChance": [
+                                90,
+                                90,
+                                90,
+                                90,
+                                90,
+                                90,
+                                90
+                        ],
+                        "bossSidePlateChance": [
+                                75,
+                                75,
+                                75,
+                                75,
+                                75,
+                                75,
+                                75
+                        ],
+                        "followerMainPlateChance": [
+                                75,
+                                75,
+                                75,
+                                75,
+                                75,
+                                75,
+                                75
+                        ],
+                        "followerSidePlateChance": [
+                                50,
+                                50,
+                                50,
+                                50,
+                                50,
+                                50,
+                                50
+                        ],
+                        "specialMainPlateChance": [
+                                75,
+                                75,
+                                75,
+                                75,
+                                75,
+                                75,
+                                75
+                        ],
+                        "specialSidePlateChance": [
+                                50,
+                                50,
+                                50,
+                                50,
+                                50,
+                                50,
+                                50
+                        ]
+                }
+        },
+        "pmcBots": {
+                "enable": true,
+                "resourceRandomization": {
+                        "enable": true,
+                        "foodRateMaxChance": 10,
+                        "foodRateUsagePercent": 33,
+                        "medRateMaxChance": 10,
+                        "medRateUsagePercent": 33
+                },
+                "weaponDurability": {
+                        "enable": true,
+                        "min": 95,
+                        "max": 100,
+                        "minDelta": 0,
+                        "maxDelta": 5,
+                        "minLimitPercent": 90,
+                        "enhancementChance": 10
+                },
+                "lootConfig": {
+                        "enable": false,
+                        "blacklist": []
+                },
+                "rerollConfig": {
+                        "enable": false,
+                        "chance": 50
+                },
+                "toploadConfig": {
+                        "enable": true,
+                        "chance": 30,
+                        "percent": 30
+                },
+                "questConfig": {
+                        "enable": true,
+                        "chance": 10
+                },
+                "povertyConfig": {
+                        "enable": true,
+                        "chance": 10
+                },
+                "additionalOptions": {
+                        "enablePrestiging": true,
+                        "seasonalPmcAppearance": true,
+                        "ammoTierSliding": {
+                                "enable": false,
+                                "slideAmount": 1,
+                                "slideChance": 33
+                        },
+                        "gameVersionWeighting": {
+                                "enable": false,
+                                "standard": 20,
+                                "leftBehind": 10,
+                                "prepareForEscape": 10,
+                                "edgeOfDarkness": 40,
+                                "unheardEdition": 20
+                        }
+                },
+                "secrets": {
+                        "developerSettings": {
+                                "devNames": {
+                                        "enable": true,
+                                        "nameList": [
+                                                "Chomp",
+                                                "Dirtbikercj",
+                                                "Clodan",
+                                                "CWX",
+                                                "DrakiaXYZ",
+                                                "Kaeno",
+                                                "Refringe",
+                                                "Waffle",
+                                                "AcidPhantasm",
+                                                "Archangel"
+                                        ]
+                                },
+                                "devLevels": {
+                                        "enable": false,
+                                        "min": 30,
+                                        "max": 79
+                                }
+                        }
+                }
+        },
+        "scavBots": {
+                "enable": true,
+                "resourceRandomization": {
+                        "enable": true,
+                        "foodRateMaxChance": 10,
+                        "foodRateUsagePercent": 10,
+                        "medRateMaxChance": 10,
+                        "medRateUsagePercent": 10
+                },
+                "weaponDurability": {
+                        "enable": true,
+                        "min": 70,
+                        "max": 90,
+                        "minDelta": 5,
+                        "maxDelta": 20,
+                        "minLimitPercent": 50,
+                        "enhancementChance": 1
+                },
+                "lootConfig": {
+                        "enable": true,
+                        "blacklist": []
+                },
+                "rerollConfig": {
+                        "enable": true,
+                        "chance": 50
+                },
+                "toploadConfig": {
+                        "enable": false,
+                        "chance": 30,
+                        "percent": 30
+                },
+                "keyConfig": {
+                        "addAllKeysToScavs": false,
+                        "addOnlyMechanicalKeysToScavs": false,
+                        "addOnlyKeyCardsToScavs": false
+                },
+                "additionalOptions": {
+                        "enableScavAttachmentTiering": false,
+                        "enableScavEqualEquipmentTiering": false
+                }
+        },
+        "bossBots": {
+                "enable": true,
+                "resourceRandomization": {
+                        "enable": true,
+                        "foodRateMaxChance": 50,
+                        "foodRateUsagePercent": 50,
+                        "medRateMaxChance": 50,
+                        "medRateUsagePercent": 50
+                },
+                "weaponDurability": {
+                        "enable": true,
+                        "min": 90,
+                        "max": 100,
+                        "minDelta": 0,
+                        "maxDelta": 5,
+                        "minLimitPercent": 85,
+                        "enhancementChance": 0
+                },
+                "lootConfig": {
+                        "enable": true,
+                        "blacklist": []
+                },
+                "rerollConfig": {
+                        "enable": true,
+                        "chance": 50
+                },
+                "toploadConfig": {
+                        "enable": false,
+                        "chance": 30,
+                        "percent": 30
+                }
+        },
+        "followerBots": {
+                "enable": true,
+                "resourceRandomization": {
+                        "enable": true,
+                        "foodRateMaxChance": 25,
+                        "foodRateUsagePercent": 25,
+                        "medRateMaxChance": 25,
+                        "medRateUsagePercent": 25
+                },
+                "weaponDurability": {
+                        "enable": true,
+                        "min": 90,
+                        "max": 100,
+                        "minDelta": 0,
+                        "maxDelta": 15,
+                        "minLimitPercent": 75,
+                        "enhancementChance": 0
+                },
+                "lootConfig": {
+                        "enable": true,
+                        "blacklist": []
+                },
+                "rerollConfig": {
+                        "enable": true,
+                        "chance": 50
+                },
+                "toploadConfig": {
+                        "enable": false,
+                        "chance": 30,
+                        "percent": 30
+                }
+        },
+        "specialBots": {
+                "enable": true,
+                "resourceRandomization": {
+                        "enable": true,
+                        "foodRateMaxChance": 15,
+                        "foodRateUsagePercent": 25,
+                        "medRateMaxChance": 15,
+                        "medRateUsagePercent": 25
+                },
+                "weaponDurability": {
+                        "enable": true,
+                        "min": 90,
+                        "max": 100,
+                        "minDelta": 0,
+                        "maxDelta": 10,
+                        "minLimitPercent": 80,
+                        "enhancementChance": 0
+                },
+                "lootConfig": {
+                        "enable": true,
+                        "blacklist": []
+                },
+                "rerollConfig": {
+                        "enable": true,
+                        "chance": 50
+                },
+                "toploadConfig": {
+                        "enable": false,
+                        "chance": 30,
+                        "percent": 30
+                }
+        },
+        "customLevelDeltas": {
+                "enable": false,
+                "tier1": {
+                        "min": 10,
+                        "max": 5
+                },
+                "tier2": {
+                        "min": 10,
+                        "max": 5
+                },
+                "tier3": {
+                        "min": 15,
+                        "max": 7
+                },
+                "tier4": {
+                        "min": 20,
+                        "max": 10
+                },
+                "tier5": {
+                        "min": 30,
+                        "max": 15
+                },
+                "tier6": {
+                        "min": 40,
+                        "max": 20
+                },
+                "tier7": {
+                        "min": 50,
+                        "max": 20
+                }
+        },
+        "customScavLevelDeltas": {
+                "enable": false,
+                "tier1": {
+                        "min": 10,
+                        "max": 0
+                },
+                "tier2": {
+                        "min": 10,
+                        "max": -10
+                },
+                "tier3": {
+                        "min": 15,
+                        "max": -10
+                },
+                "tier4": {
+                        "min": 20,
+                        "max": -10
+                },
+                "tier5": {
+                        "min": 30,
+                        "max": -10
+                },
+                "tier6": {
+                        "min": 40,
+                        "max": -10
+                },
+                "tier7": {
+                        "min": 50,
+                        "max": -10
+                }
+        },
+        "enableDebugLog": false,
+        "configAppSettings": {
+                "showUndo": true,
+                "showDefault": false,
+                "disableAnimations": false
+        }
+}

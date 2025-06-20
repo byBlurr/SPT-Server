@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "APBSIInventoryMagGen.js",
+    "sourceRoot": "",
+    "sources": [
+        "APBSIInventoryMagGen.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

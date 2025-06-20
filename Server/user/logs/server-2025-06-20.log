@@ -1,0 +1,354 @@
+[2025-06-20T15:30:23.316Z] debug: 	Importing configs...
+[2025-06-20T15:30:23.468Z] info: 	Commit hash: 7a9a346bb2a08bffb965150784ca7869741804b1
+[2025-06-20T15:30:23.469Z] info: 	Build date: 1744140374083
+[2025-06-20T15:30:23.607Z] info: 	ModLoader: loading: 16 server mods...
+[2025-06-20T15:30:23.674Z] debug: 	ModLoader: Mod MoreCheckmarksBackend is missing from order.json, adding
+[2025-06-20T15:30:23.674Z] debug: 	ModLoader: Mod Skwizzy-LootingBots-ServerMod is missing from order.json, adding
+[2025-06-20T15:30:23.674Z] debug: 	ModLoader: Mod Virtual's Custom Quest Loader is missing from order.json, adding
+[2025-06-20T15:30:23.675Z] debug: 	ModLoader: Mod [SVM] Server Value Modifier is missing from order.json, adding
+[2025-06-20T15:30:23.675Z] debug: 	ModLoader: Mod acidphantasm-bosseshavelegamedals is missing from order.json, adding
+[2025-06-20T15:30:23.675Z] debug: 	ModLoader: Mod acidphantasm-brightlasers is missing from order.json, adding
+[2025-06-20T15:30:23.675Z] debug: 	ModLoader: Mod acidphantasm-progressivebotsystem is missing from order.json, adding
+[2025-06-20T15:30:23.675Z] debug: 	ModLoader: Mod acidphantasm-refsptfriendlyquests is missing from order.json, adding
+[2025-06-20T15:30:23.675Z] debug: 	ModLoader: Mod fika-server is missing from order.json, adding
+[2025-06-20T15:30:23.675Z] debug: 	ModLoader: Mod schkuromi-disableseasonalevents is missing from order.json, adding
+[2025-06-20T15:30:23.675Z] debug: 	ModLoader: Mod trinagan-keycase is missing from order.json, adding
+[2025-06-20T15:30:23.675Z] debug: 	ModLoader: Mod tyfon-uifixes is missing from order.json, adding
+[2025-06-20T15:30:23.675Z] debug: 	ModLoader: Mod zSolarint-SAIN-ServerMod is missing from order.json, adding
+[2025-06-20T15:30:23.675Z] debug: 	ModLoader: Mod zzDrakiaXYZ-LiveFleaPrices is missing from order.json, adding
+[2025-06-20T15:30:23.675Z] debug: 	ModLoader: Mod zzMusicManiac-KeysInLoot is missing from order.json, adding
+[2025-06-20T15:30:23.705Z] debug: 	Mod DanW-LateToTheParty hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:23.836Z] debug: 	Mod MoreCheckmarksBackend hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:23.869Z] debug: 	Mod Skwizzy-LootingBots-ServerMod hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:23.907Z] debug: 	Mod Virtual's Custom Quest Loader hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:23.942Z] debug: 	Mod acidphantasm-bosseshavelegamedals hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:23.964Z] debug: 	Mod acidphantasm-brightlasers hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:24.252Z] debug: 	Mod acidphantasm-progressivebotsystem hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:25.011Z] debug: 	Mod acidphantasm-refsptfriendlyquests hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:25.623Z] debug: 	Mod schkuromi-disableseasonalevents hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:25.645Z] debug: 	Mod trinagan-keycase hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:25.690Z] debug: 	Mod tyfon-uifixes hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:25.748Z] debug: 	Mod zSolarint-SAIN-ServerMod hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:25.768Z] debug: 	Mod zzDrakiaXYZ-LiveFleaPrices hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:25.791Z] debug: 	Mod zzMusicManiac-KeysInLoot hash stored in ./user/cache/modCache.json
+[2025-06-20T15:30:25.804Z] info: 	Mod: LateToTheParty version: 2.9.1 by: DanW loaded
+[2025-06-20T15:30:25.804Z] info: 	Mod: MoreCheckmarksBackend version: 1.5.17 by: VIP loaded
+[2025-06-20T15:30:25.805Z] info: 	Mod: LootingBots-ServerMod version: 1.5.2 by: Skwizzy loaded
+[2025-06-20T15:30:25.805Z] info: 	Mod: Virtuals Custom Quest Loader version: 2.0.4 by: Virtual loaded
+[2025-06-20T15:30:25.805Z] info: 	Mod: SVM version: 1.11.1 by: GhostFenixx loaded
+[2025-06-20T15:30:25.805Z] info: 	Mod: Bosses Have Lega Medals version: 1.3.0 by: acidphantasm loaded
+[2025-06-20T15:30:25.805Z] info: 	Mod: BrightLasers version: 1.3.0 by: acidphantasm loaded
+[2025-06-20T15:30:25.805Z] info: 	Mod: Acids Progressive Bot System version: 1.8.2 by: acidphantasm loaded
+[2025-06-20T15:30:25.805Z] info: 	Mod: RefSPTFriendlyQuests version: 1.3.0 by: acidphantasm loaded
+[2025-06-20T15:30:25.805Z] info: 	Mod: server version: 2.4.8 by: Fika loaded
+[2025-06-20T15:30:25.806Z] info: 	Mod: disable-seasonal-events version: 1.0.5 by: schkuromi loaded
+[2025-06-20T15:30:25.806Z] info: 	Mod: keycase version: 1.0.1 by: Trinagan loaded
+[2025-06-20T15:30:25.806Z] info: 	Mod: uifixes version: 4.2.1 by: Tyfon loaded
+[2025-06-20T15:30:25.806Z] info: 	Mod: SAIN version: 2.3.0 by: zSolarint loaded
+[2025-06-20T15:30:25.806Z] info: 	Mod: LiveFleaPrices version: 1.5.1 by: DrakiaXYZ loaded
+[2025-06-20T15:30:25.806Z] info: 	Mod: MusicManiac-KeysInLoot version: 1.5.1 by: MusicManiac loaded
+[2025-06-20T15:30:25.852Z] warn: 	[SVM] Null Preset detected, SVM is disabled, Most likely you're running this mod for the first time, head to the SVM mod folder and run the Greed.exe
+[2025-06-20T15:30:26.147Z] debug: 	[APBS] Mod Config - FOR SUPPORT FOLKS ❤❤
+[2025-06-20T15:30:26.147Z] debug: 	[APBS] If any of these values are true, you can send them to me for support regarding bots/bot gen.
+[2025-06-20T15:30:26.147Z] debug: 	[APBS] Using a Preset? false
+[2025-06-20T15:30:26.147Z] debug: 	[APBS] Mod Weapons: false
+[2025-06-20T15:30:26.147Z] debug: 	[APBS] Mod Equipment: false
+[2025-06-20T15:30:26.147Z] debug: 	[APBS] Mod Clothing: false
+[2025-06-20T15:30:26.147Z] debug: 	[APBS] Mod Attachments: false
+[2025-06-20T15:30:26.818Z] info: 	[Fika Server] Overriding SPT configuration
+[2025-06-20T15:30:26.859Z] info: 	Server: executing startup callbacks...
+[2025-06-20T15:30:26.859Z] debug: 	OS: x64 | Windows 10 Home | win32
+[2025-06-20T15:30:26.859Z] debug: 	CPU: AMD Ryzen 7 5700X 8-Core Processor              cores: 16
+[2025-06-20T15:30:26.859Z] debug: 	RAM: 63.94GB
+[2025-06-20T15:30:26.860Z] debug: 	PATH: RzpcU1BUXDMuMTFcU2VydmVyXFNQVC5TZXJ2ZXIuZXhl
+[2025-06-20T15:30:26.860Z] debug: 	PATH: RzpcU1BUXDMuMTFcU2VydmVyXFNQVC5TZXJ2ZXIuZXhl
+[2025-06-20T15:30:26.860Z] debug: 	Server: 3.11.3
+[2025-06-20T15:30:26.860Z] debug: 	Node: 22.12.0
+[2025-06-20T15:30:26.860Z] debug: 	Date: 1744140374083
+[2025-06-20T15:30:26.860Z] debug: 	Commit: 7a9a346bb2a08bffb965150784ca7869741804b1
+[2025-06-20T15:30:26.869Z] info: 	Importing database...
+[2025-06-20T15:30:30.778Z] info: 	Database import finished
+[2025-06-20T15:30:30.778Z] debug: 	Database import took 3.9095s
+[2025-06-20T15:30:30.788Z] debug: 	Database ID validation took 1.292ms
+[2025-06-20T15:30:30.790Z] info: 	[LootingBots-ServerMod] Marking items with DiscardLimits as InsuranceDisabled
+[2025-06-20T15:30:30.798Z] info: 	[LootingBots-ServerMod] Global config DiscardLimitsEnabled set to false
+[2025-06-20T15:30:30.810Z] succ: 	[VCQL] Loaded 6 custom quests.
+[2025-06-20T15:30:30.811Z] succ: 	[VCQL] 0 custom quests were pruned due to date settings.
+[2025-06-20T15:30:30.818Z] succ: 	[VCQL] Loaded 9 custom quest images.
+[2025-06-20T15:30:30.818Z] succ: 	[VCQL] Loaded 0 custom trader images.
+[2025-06-20T15:30:30.828Z] info: 	[KeysInLoot] MusicManiac-KeysInLoot started loading
+[2025-06-20T15:30:30.841Z] debug: 	Bundle user/mods/acidphantasm-brightlasers/bundles/assets/systems/effects/laserbeam/laser.bundle hash stored in ./user/cache/bundleHashCache.json
+[2025-06-20T15:30:30.859Z] debug: 	Bundle user/mods/trinagan-keycase/bundles/item_container_keys_case.bundle hash stored in ./user/cache/bundleHashCache.json
+[2025-06-20T15:30:30.872Z] debug: 	Item 684868d60b032cbbf606d3cf not found in item base cache, regenerating cache
+[2025-06-20T15:30:30.910Z] info: 	[KeysInLoot] 406 keys weights were adjusted
+[2025-06-20T15:30:30.911Z] info: 	[KeysInLoot] different keys were added 7559 times to jacket/duffle/dead scav loot
+[2025-06-20T15:30:30.911Z] succ: 	[KeysInLoot] MusicManiac-KeysInLoot finished loading
+[2025-06-20T15:30:30.950Z] succ: 	Started webserver at https://0.0.0.0:6969
+[2025-06-20T15:30:30.951Z] succ: 	Started websocket at wss://0.0.0.0:6969
+[2025-06-20T15:30:30.951Z] succ: 	Server is running, do not close while playing SPT, Server has started, happy playing!!
+[2025-06-20T15:30:30.952Z] debug: 	No profiles to backup
+[2025-06-20T15:30:30.952Z] debug: 	Loading 0 profile took 0.003ms
+[2025-06-20T15:30:31.488Z] info: 	[LiveFleaPrices] Fetching Flea Prices for gamemode regular...
+[2025-06-20T15:30:40.030Z] debug: 	Saving 0 profile took 0.004ms
+[2025-06-20T15:31:00.055Z] debug: 	Saving 0 profile took 0.009ms
+[2025-06-20T15:31:20.085Z] debug: 	Saving 0 profile took 0.013ms
+[2025-06-20T15:31:40.111Z] debug: 	Saving 0 profile took 0.005ms
+[2025-06-20T15:32:00.126Z] debug: 	Saving 0 profile took 0.006ms
+[2025-06-20T15:32:06.139Z] info: 	[Client Request] /launcher/server/connect
+[2025-06-20T15:32:06.153Z] info: 	[Client Request] /launcher/ping
+[2025-06-20T15:32:06.156Z] info: 	[Client Request] /launcher/server/version
+[2025-06-20T15:32:06.162Z] info: 	[Client Request] /files/launcher/bg.png
+[2025-06-20T15:32:06.182Z] info: 	[Client Request] /launcher/ping
+[2025-06-20T15:32:06.224Z] info: 	[Client Request] /launcher/profile/login
+[2025-06-20T15:32:10.639Z] info: 	[Client Request] /launcher/profile/register
+[2025-06-20T15:32:10.654Z] info: 	[Client Request] /launcher/profile/login
+[2025-06-20T15:32:10.657Z] info: 	[Client Request] /launcher/profile/get
+[2025-06-20T15:32:10.661Z] info: 	[Client Request] /launcher/profile/info
+[2025-06-20T15:32:10.677Z] info: 	[Client Request] /launcher/server/version
+[2025-06-20T15:32:10.684Z] info: 	[Client Request] /launcher/server/loadedServerMods
+[2025-06-20T15:32:10.690Z] info: 	[Client Request] /launcher/server/serverModsUsedByProfile
+[2025-06-20T15:32:10.697Z] info: 	[Client Request] /launcher/profile/login
+[2025-06-20T15:32:10.699Z] info: 	[Client Request] /launcher/profile/get
+[2025-06-20T15:32:10.700Z] info: 	[Client Request] /launcher/profile/info
+[2025-06-20T15:32:10.703Z] info: 	[Client Request] /launcher/server/version
+[2025-06-20T15:32:14.336Z] info: 	[Client Request] /launcher/profile/login
+[2025-06-20T15:32:14.338Z] info: 	[Client Request] /launcher/profile/get
+[2025-06-20T15:32:14.340Z] info: 	[Client Request] /launcher/profile/info
+[2025-06-20T15:32:14.341Z] info: 	[Client Request] /launcher/server/version
+[2025-06-20T15:32:14.354Z] info: 	[Client Request] /launcher/server/version
+[2025-06-20T15:32:20.147Z] debug: 	Saving 1 profile took 3.327ms
+[2025-06-20T15:32:30.719Z] info: 	[Client Request] /LateToTheParty/GetConfig
+[2025-06-20T15:32:31.035Z] info: 	[Client Request] /singleplayer/bosstypes
+[2025-06-20T15:32:32.003Z] info: 	[Client Request] /fika/natpunchserver/config
+[2025-06-20T15:32:32.437Z] info: 	[Client Request] /fika/client/config
+[2025-06-20T15:32:32.476Z] info: 	[Client Request] /singleplayer/settings/bot/difficulties/
+[2025-06-20T15:32:32.564Z] info: 	[Client Request] /singleplayer/settings/bot/difficulty/core/core
+[2025-06-20T15:32:38.377Z] info: 	[Client Request] /fika/client/check/version
+[2025-06-20T15:32:38.399Z] info: 	[Client Request] /fika/client/check/mods
+[2025-06-20T15:32:40.168Z] debug: 	Saving 1 profile took 0.256ms
+[2025-06-20T15:32:41.191Z] info: 	[Client Request] /singleplayer/settings/version
+[2025-06-20T15:32:41.193Z] info: 	[Client Request] /singleplayer/release
+[2025-06-20T15:32:41.198Z] info: 	[Client Request] /singleplayer/moddedTraders
+[2025-06-20T15:32:41.203Z] info: 	[Client Request] /singleplayer/enableBSGlogging
+[2025-06-20T15:32:41.249Z] info: 	[Client Request] /MoreCheckmarksRoutes/quests
+[2025-06-20T15:32:41.250Z] info: 	MoreCheckmarks making quest data request
+[2025-06-20T15:32:41.250Z] info: 	Unable to fetch quests for MoreCheckmarks
+[2025-06-20T15:32:41.253Z] info: 	[Client Request] /MoreCheckmarksRoutes/items
+[2025-06-20T15:32:41.253Z] info: 	MoreCheckmarks making item data request
+[2025-06-20T15:32:42.283Z] info: 	[Client Request] /MoreCheckmarksRoutes/assorts
+[2025-06-20T15:32:42.284Z] info: 	MoreCheckmarks making trader assort data request
+[2025-06-20T15:32:42.434Z] info: 	[Client Request] /MoreCheckmarksRoutes/productions
+[2025-06-20T15:32:42.435Z] info: 	MoreCheckmarks making productions request
+[2025-06-20T15:32:43.005Z] info: 	[Client Request] /singleplayer/bundles
+[2025-06-20T15:32:47.885Z] info: 	[Client Request] /singleplayer/settings/version
+[2025-06-20T15:32:47.987Z] info: 	[Client Request] /client/menu/locale/en
+[2025-06-20T15:32:48.061Z] info: 	[Client Request] /client/game/mode
+[2025-06-20T15:32:48.117Z] info: 	[Client Request] /client/game/start
+[2025-06-20T15:32:48.117Z] info: 	[Late to the Party] Creating loot ranking data...
+[2025-06-20T15:32:48.680Z] info: 	[Late to the Party] Creating loot ranking data...done.
+[2025-06-20T15:32:48.736Z] info: 	[Client Request] /client/game/version/validate
+[2025-06-20T15:32:48.791Z] info: 	[Client Request] /client/languages
+[2025-06-20T15:32:48.854Z] info: 	[Client Request] /client/game/config
+[2025-06-20T15:32:50.849Z] info: 	[Client Request] /client/items
+[2025-06-20T15:32:56.332Z] info: 	[Client Request] /client/customization
+[2025-06-20T15:32:56.505Z] info: 	[Client Request] /client/customization/storage
+[2025-06-20T15:32:56.581Z] info: 	[Client Request] /client/globals
+[2025-06-20T15:32:56.600Z] info: 	[Client Request] /client/trading/api/traderSettings
+[2025-06-20T15:32:56.600Z] info: 	[Client Request] /client/prestige/list
+[2025-06-20T15:32:56.601Z] info: 	[Client Request] /client/settings
+[2025-06-20T15:32:57.377Z] info: 	[Client Request] /files/prestige/675864eb86778bc82004127c.png
+[2025-06-20T15:32:57.521Z] info: 	[Client Request] /files/prestige/675864f826d0e0d6b602ce17.png
+[2025-06-20T15:32:57.522Z] info: 	[Client Request] /files/prestige/reward/small/676c801645d80f6cea04f0bc.png
+[2025-06-20T15:32:57.522Z] info: 	[Client Request] /files/prestige/reward/big/676c7ffa005e2661180b0d5c.png
+[2025-06-20T15:32:57.523Z] info: 	[Client Request] /files/prestige/reward/small/6767340793816ce19c0c8660.png
+[2025-06-20T15:32:57.523Z] info: 	[Client Request] /files/prestige/reward/big/6767329bed053537070a13d5.png
+[2025-06-20T15:32:57.523Z] info: 	[Client Request] /files/prestige/reward/small/676733e5276497e8c60a7e6d.png
+[2025-06-20T15:32:57.524Z] info: 	[Client Request] /files/prestige/reward/big/67673232a49c2307370ea305.png
+[2025-06-20T15:32:57.524Z] info: 	[Client Request] /files/prestige/reward/small/6767343d9680f649230b1c8f.png
+[2025-06-20T15:32:57.525Z] info: 	[Client Request] /files/prestige/reward/small/6767340bed053537070a13da.png
+[2025-06-20T15:32:57.525Z] info: 	[Client Request] /files/prestige/reward/big/676732609b1325e747028435.png
+[2025-06-20T15:32:57.525Z] info: 	[Client Request] /files/prestige/reward/small/67673431a49c2307370ea311.png
+[2025-06-20T15:32:57.526Z] info: 	[Client Request] /files/prestige/reward/big/6767328e276497e8c60a7e69.png
+[2025-06-20T15:32:57.526Z] info: 	[Client Request] /files/prestige/reward/small/676ab01ff444b79e7306741b.png
+[2025-06-20T15:32:57.526Z] info: 	[Client Request] /files/prestige/675864ffa4c475834b0de8ff.png
+[2025-06-20T15:32:57.527Z] info: 	[Client Request] /files/prestige/675864efbe287595450c7686.png
+[2025-06-20T15:32:57.527Z] info: 	[Client Request] /files/prestige/reward/big/6767323ff6f30887d5038c38.png
+[2025-06-20T15:32:57.527Z] info: 	[Client Request] /files/prestige/reward/big/676c7ff49767102f9807a17a.png
+[2025-06-20T15:32:57.528Z] info: 	[Client Request] /files/prestige/reward/small/676c801f9767102f9807a17b.png
+[2025-06-20T15:32:57.528Z] info: 	[Client Request] /files/prestige/reward/big/676c8005fa48d79dfa063bce.png
+[2025-06-20T15:32:57.529Z] info: 	[Client Request] /files/prestige/reward/big/67673283aa94e661930dadfc.png
+[2025-06-20T15:32:57.529Z] info: 	[Client Request] /files/prestige/reward/small/676c801b77d346999f0ac3b1.png
+[2025-06-20T15:32:57.530Z] info: 	[Client Request] /files/prestige/reward/big/676732538073dabc2e06df28.png
+[2025-06-20T15:32:57.530Z] info: 	[Client Request] /files/prestige/reward/small/6767342c4fe29db8170e5a10.png
+[2025-06-20T15:32:57.530Z] info: 	[Client Request] /files/prestige/reward/small/676733fb8073dabc2e06df2c.png
+[2025-06-20T15:32:57.531Z] info: 	[Client Request] /files/prestige/reward/big/67673239b3ee94a38c056c27.png
+[2025-06-20T15:32:57.531Z] info: 	[Client Request] /files/prestige/reward/small/67673438276497e8c60a7e6f.png
+[2025-06-20T15:32:57.531Z] info: 	[Client Request] /files/prestige/reward/big/676732974fe29db8170e5a09.png
+[2025-06-20T15:32:57.532Z] info: 	[Client Request] /files/prestige/reward/small/676734278073dabc2e06df2d.png
+[2025-06-20T15:32:57.534Z] info: 	[Client Request] /files/prestige/reward/small/676733e15b13f778d10f194e.png
+[2025-06-20T15:32:57.535Z] info: 	[Client Request] /files/prestige/reward/big/6767326b276497e8c60a7e68.png
+[2025-06-20T15:32:57.535Z] info: 	[Client Request] /files/prestige/reward/small/676734355b13f778d10f1951.png
+[2025-06-20T15:32:57.535Z] info: 	[Client Request] /files/prestige/reward/big/676732928073dabc2e06df2a.png
+[2025-06-20T15:32:57.536Z] info: 	[Client Request] /files/prestige/reward/big/676732768073dabc2e06df29.png
+[2025-06-20T15:32:57.536Z] info: 	[Client Request] /files/prestige/reward/small/676733ea1814da542d050f2c.png
+[2025-06-20T15:32:57.536Z] info: 	[Client Request] /files/prestige/reward/small/6767341d5b13f778d10f1950.png
+[2025-06-20T15:32:57.536Z] info: 	[Client Request] /files/prestige/reward/big/676732574ae0a2016608ebd7.png
+[2025-06-20T15:32:57.537Z] info: 	[Client Request] /files/prestige/reward/big/67673244378a51df670bc6c8.png
+[2025-06-20T15:32:57.537Z] info: 	[Client Request] /files/prestige/reward/big/6767325b9680f649230b1c89.png
+[2025-06-20T15:32:57.537Z] info: 	[Client Request] /files/prestige/reward/small/676733dca49c2307370ea30f.png
+[2025-06-20T15:32:57.538Z] info: 	[Client Request] /files/prestige/reward/small/676733ff4fe29db8170e5a0f.png
+[2025-06-20T15:32:57.538Z] info: 	[Client Request] /files/prestige/reward/big/676aaff96fd0e0b7f20715db.png
+[2025-06-20T15:32:57.538Z] info: 	[Client Request] /client/game/profile/list
+[2025-06-20T15:32:58.469Z] info: 	[Client Request] /client/locale/en
+[2025-06-20T15:32:58.830Z] info: 	[Client Request] /client/game/profile/nickname/reserved
+[2025-06-20T15:32:58.955Z] info: 	[Client Request] /client/game/profile/nickname/validate
+[2025-06-20T15:33:00.221Z] debug: 	Saving 1 profile took 0.481ms
+[2025-06-20T15:33:14.858Z] info: 	[Client Request] /launcher/profile/info
+[2025-06-20T15:33:14.860Z] info: 	[Client Request] /launcher/server/version
+[2025-06-20T15:33:20.245Z] debug: 	Saving 1 profile took 0.24ms
+[2025-06-20T15:33:40.276Z] debug: 	Saving 1 profile took 0.285ms
+[2025-06-20T15:33:44.012Z] info: 	[Client Request] /client/game/profile/create
+[2025-06-20T15:33:44.026Z] debug: 	Quest production unlock validation took 0.003ms
+[2025-06-20T15:33:44.026Z] debug: 	Updating generator area slots to a size of 6 + hideout management skill
+[2025-06-20T15:33:44.026Z] debug: 	Updating water collector area slots to a size of 1 + hideout management skill
+[2025-06-20T15:33:44.026Z] debug: 	Updating air filter area slots to a size of 3 + hideout management skill
+[2025-06-20T15:33:44.026Z] debug: 	Updating bitcoin farm area slots to a size of 50 + hideout management skill
+[2025-06-20T15:33:44.026Z] debug: 	Updating cultist area slots to a size of 1
+[2025-06-20T15:33:44.026Z] debug: 	generated player scav loadout with karma level 0
+[2025-06-20T15:33:44.132Z] info: 	[Client Request] /client/customization/storage
+[2025-06-20T15:33:44.182Z] info: 	[Client Request] /client/game/profile/list
+[2025-06-20T15:33:44.324Z] info: 	[Client Request] /client/game/profile/select
+[2025-06-20T15:33:44.383Z] info: 	[Client Request] /MoreCheckmarksRoutes/quests
+[2025-06-20T15:33:44.383Z] info: 	MoreCheckmarks making quest data request
+[2025-06-20T15:33:44.384Z] info: 	Got quests
+[2025-06-20T15:33:44.564Z] info: 	[Client Request] /MoreCheckmarksRoutes/assorts
+[2025-06-20T15:33:44.565Z] info: 	MoreCheckmarks making trader assort data request
+[2025-06-20T15:33:44.649Z] info: 	[Client Request] /MoreCheckmarksRoutes/productions
+[2025-06-20T15:33:44.650Z] info: 	MoreCheckmarks making productions request
+[2025-06-20T15:33:44.668Z] info: 	[Client Request] /client/profile/status
+[2025-06-20T15:33:44.739Z] info: 	[Client Request] /client/weather
+[2025-06-20T15:33:44.745Z] info: 	[Client Request] /client/locations
+[2025-06-20T15:33:44.746Z] debug: 	Map: base has no base json file, skipping generation
+[2025-06-20T15:33:45.490Z] info: 	[Client Request] /client/handbook/templates
+[2025-06-20T15:33:46.970Z] info: 	[Client Request] /client/hideout/areas
+[2025-06-20T15:33:47.093Z] info: 	[Client Request] /client/hideout/qte/list
+[2025-06-20T15:33:47.153Z] info: 	[Client Request] /client/hideout/settings
+[2025-06-20T15:33:47.204Z] info: 	[Client Request] /client/hideout/production/recipes
+[2025-06-20T15:33:47.306Z] info: 	[Client Request] /client/hideout/customization/offer/list
+[2025-06-20T15:33:47.373Z] info: 	[Client Request] /client/builds/list
+[2025-06-20T15:33:47.480Z] debug: 	[Fika Notification Manager] User is 68557efa0004cd4196f8a1f2
+[2025-06-20T15:33:47.480Z] debug: 	[Fika Presence] Adding player: Blurr
+[2025-06-20T15:33:47.481Z] info: 	WebSocketHandler "Fika Notification Manager" connected
+[2025-06-20T15:33:49.097Z] info: 	[Client Request] /singleplayer/log
+[2025-06-20T15:33:49.097Z] debug: 	[SPT.Core] 1184960
+[2025-06-20T15:33:49.098Z] info: 	[Client Request] /singleplayer/log
+[2025-06-20T15:33:49.098Z] debug: 	[SPT.Core] 1498960
+[2025-06-20T15:33:49.099Z] info: 	[Client Request] /singleplayer/log
+[2025-06-20T15:33:49.099Z] debug: 	[SPT.Core] 0
+[2025-06-20T15:33:50.447Z] info: 	[Client Request] /client/notifier/channel/create
+[2025-06-20T15:33:50.476Z] info: 	[Client Request] /client/profile/status
+[2025-06-20T15:33:50.477Z] info: 	[Client Request] /client/server/list
+[2025-06-20T15:33:50.477Z] info: 	[Client Request] /client/match/group/current
+[2025-06-20T15:33:50.477Z] info: 	[Client Request] /client/friend/list
+[2025-06-20T15:33:50.478Z] info: 	[Client Request] /client/mail/dialog/list
+[2025-06-20T15:33:50.478Z] info: 	[Client Request] /client/friend/request/list/inbox
+[2025-06-20T15:33:50.479Z] info: 	[Client Request] /client/friend/request/list/outbox
+[2025-06-20T15:33:50.485Z] info: 	[Client Request] /client/quest/list
+[2025-06-20T15:33:50.541Z] info: 	[WS] Player: Blurr (68557efa0004cd4196f8a1f2) has connected
+[2025-06-20T15:33:50.542Z] info: 	WebSocketHandler "SPT WebSocket Handler" connected
+[2025-06-20T15:33:50.609Z] info: 	[Client Request] /client/achievement/statistic
+[2025-06-20T15:33:50.671Z] info: 	[Client Request] /client/achievement/list
+[2025-06-20T15:33:50.845Z] info: 	[Client Request] /client/repeatalbeQuests/activityPeriods
+[2025-06-20T15:33:50.846Z] debug: 	Daily scav quests still locked, Intel center not built
+[2025-06-20T15:33:50.904Z] info: 	[Client Request] /client/survey
+[2025-06-20T15:33:51.504Z] info: 	[Client Request] /fika/presence/get
+[2025-06-20T15:33:58.110Z] info: 	[Client Request] /fika/presence/set
+[2025-06-20T15:34:00.289Z] info: 	[Client Request] /fika/presence/set
+[2025-06-20T15:34:00.319Z] info: 	[Client Request] /fika/presence/get
+[2025-06-20T15:34:00.322Z] info: 	[Client Request] /client/checkVersion
+[2025-06-20T15:34:00.324Z] debug: 	Saving 1 profile took 9.548ms
+[2025-06-20T15:34:06.435Z] info: 	[Client Request] /singleplayer/settings/raid/menu
+[2025-06-20T15:34:06.610Z] info: 	[Client Request] /files/trader/avatar/59b91ca086f77469a81232e4.jpg
+[2025-06-20T15:34:06.643Z] info: 	[Client Request] /client/insurance/items/list/cost
+[2025-06-20T15:34:06.643Z] debug: 	Item with id: 67471938bafff850080488b7 missing from player inventory, skipping
+[2025-06-20T15:34:06.644Z] debug: 	Item with id: 67471938bafff850080488b7 missing from player inventory, skipping
+[2025-06-20T15:34:07.257Z] info: 	[Client Request] /fika/headless/available
+[2025-06-20T15:34:07.268Z] info: 	[Client Request] /fika/location/raids
+[2025-06-20T15:34:07.297Z] info: 	[Client Request] /client/match/group/invite/cancel-all
+[2025-06-20T15:34:07.297Z] info: 	[Client Request] /client/raid/configuration
+[2025-06-20T15:34:07.353Z] info: 	[Client Request] /client/match/group/invite/cancel-all
+[2025-06-20T15:34:09.088Z] info: 	[Client Request] /fika/raid/create
+[2025-06-20T15:34:09.108Z] debug: 	Added 50 guaranteed containers
+[2025-06-20T15:34:09.118Z] debug: 	Group: CaseN3_factory has no containers with < 100% spawn chance to choose from, skipping
+[2025-06-20T15:34:09.119Z] debug: 	Group: terra_stock has no containers with < 100% spawn chance to choose from, skipping
+[2025-06-20T15:34:09.121Z] debug: 	createStaticLootItem() No preset found for weapon: 620109578d82e67e7911abf2
+[2025-06-20T15:34:09.123Z] debug: 	Group:  has no containers with < 100% spawn chance to choose from, skipping
+[2025-06-20T15:34:09.124Z] succ: 	A total of 405 static items spawned
+[2025-06-20T15:34:09.124Z] succ: 	A total of: 110 static containers generated
+[2025-06-20T15:34:09.152Z] succ: 	A total of: 45 dynamic items spawned
+[2025-06-20T15:34:09.153Z] succ: 	Generated location: factory4_day
+[2025-06-20T15:34:09.201Z] info: 	[Client Request] /client/raid/configuration
+[2025-06-20T15:34:09.236Z] info: 	[Client Request] /fika/update/ping
+[2025-06-20T15:34:09.279Z] info: 	[Client Request] /fika/update/sethost
+[2025-06-20T15:34:09.286Z] info: 	[Client Request] /fika/update/setstatus
+[2025-06-20T15:34:09.335Z] info: 	[Client Request] /LateToTheParty/GetCarExtractNames
+[2025-06-20T15:34:09.465Z] info: 	[Client Request] /client/match/group/exit_from_menu
+[2025-06-20T15:34:14.869Z] info: 	[Client Request] /launcher/profile/info
+[2025-06-20T15:34:14.871Z] info: 	[Client Request] /launcher/server/version
+[2025-06-20T15:34:14.873Z] info: 	[Client Request] /files/launcher/side_usec.png
+[2025-06-20T15:34:20.334Z] debug: 	Saving 1 profile took 1.052ms
+[2025-06-20T15:34:30.639Z] info: 	[Client Request] /client/getMetricsConfig
+[2025-06-20T15:34:30.762Z] info: 	[Client Request] /singleplayer/settings/getRaidTime
+[2025-06-20T15:34:30.799Z] info: 	[Client Request] /client/raid/configuration
+[2025-06-20T15:34:30.850Z] info: 	[Client Request] /client/match/local/start
+[2025-06-20T15:34:30.853Z] warn: 	[APBS] ---Raid Information---
+[2025-06-20T15:34:30.854Z] warn: 	[APBS] Location: factory4_day
+[2025-06-20T15:34:30.854Z] warn: 	[APBS] Time: 15:28
+[2025-06-20T15:34:30.854Z] warn: 	[APBS] Night: false
+[2025-06-20T15:34:31.380Z] info: 	[Client Request] /fika/update/playerspawn
+[2025-06-20T15:34:40.358Z] debug: 	Saving 1 profile took 0.924ms
+[2025-06-20T15:34:45.348Z] info: 	[Client Request] /fika/update/ping
+[2025-06-20T15:35:00.386Z] debug: 	Saving 1 profile took 0.92ms
+[2025-06-20T15:35:07.848Z] info: 	[Client Request] /fika/update/setstatus
+[2025-06-20T15:35:11.213Z] info: 	[Client Request] /client/game/bot/generate
+[2025-06-20T15:35:11.213Z] debug: 	Generating 30 bots for cacheKey: marksmaneasy
+[2025-06-20T15:35:11.213Z] debug: 	Generating 45 bots for cacheKey: assaultnormal
+[2025-06-20T15:35:11.215Z] debug: 	Generating 5 bots for cacheKey: bosstagillanormal
+[2025-06-20T15:35:11.215Z] debug: 	Generating 5 bots for cacheKey: gifternormal
+[2025-06-20T15:35:11.215Z] debug: 	Generating 20 bots for cacheKey: pmcusecnormal
+[2025-06-20T15:35:11.215Z] debug: 	Generating 20 bots for cacheKey: pmcbearnormal
+[2025-06-20T15:35:12.457Z] debug: 	pmcusec Unable to spawn item emelya after 11 attempts, ignoring spawn limit
+[2025-06-20T15:35:12.513Z] debug: 	pmcusec Unable to spawn item item_food_ranton after 11 attempts, ignoring spawn limit
+[2025-06-20T15:35:12.546Z] debug: 	pmcbear Unable to spawn item beefstew after 11 attempts, ignoring spawn limit
+[2025-06-20T15:35:12.568Z] debug: 	pmcbear Unable to spawn item canned_beef after 11 attempts, ignoring spawn limit
+[2025-06-20T15:35:12.599Z] debug: 	Generated 30 marksman (marksman) easy bots
+[2025-06-20T15:35:12.599Z] debug: 	Generated 45 assault (assault) normal bots
+[2025-06-20T15:35:12.599Z] debug: 	Generated 5 bossTagilla (bossTagilla) normal bots
+[2025-06-20T15:35:12.599Z] debug: 	Generated 5 gifter (gifter) normal bots
+[2025-06-20T15:35:12.599Z] debug: 	Generated 20 pmcUSEC (pmcUSEC) normal bots
+[2025-06-20T15:35:12.599Z] debug: 	Generated 20 pmcBEAR (pmcBEAR) normal bots
+[2025-06-20T15:35:14.549Z] info: 	[Client Request] /singleplayer/settings/bot/maxCap/factory4_day
+[2025-06-20T15:35:14.862Z] info: 	[Client Request] /launcher/profile/info
+[2025-06-20T15:35:14.864Z] info: 	[Client Request] /launcher/server/version
+[2025-06-20T15:35:15.181Z] info: 	[Client Request] /client/game/bot/generate
+[2025-06-20T15:35:15.746Z] info: 	[Client Request] /singleplayer/scav/traitorscavhostile
+[2025-06-20T15:35:18.911Z] info: 	[Client Request] /fika/update/ping
+[2025-06-20T15:35:20.443Z] debug: 	Saving 1 profile took 2.141ms
+[2025-06-20T15:35:20.554Z] debug: 	[WS] Pinging player: 68557efa0004cd4196f8a1f2
+[2025-06-20T15:35:20.554Z] debug: 	[WS] Socket lost, deleting handle
+[2025-06-20T15:35:31.753Z] info: 	[Client Request] /vcql/zones/get
+[2025-06-20T15:35:31.821Z] info: 	[Client Request] /singleplayer/settings/bot/getBotBehaviours/
+[2025-06-20T15:35:40.462Z] debug: 	Saving 1 profile took 1.398ms
+[2025-06-20T15:35:41.368Z] info: 	[Client Request] /LateToTheParty/GetLootRankingData
+[2025-06-20T15:35:51.350Z] info: 	[Client Request] /fika/update/ping
+[2025-06-20T15:36:00.490Z] debug: 	Saving 1 profile took 1.36ms
+[2025-06-20T15:36:14.862Z] info: 	[Client Request] /launcher/profile/info
+[2025-06-20T15:36:14.865Z] info: 	[Client Request] /launcher/server/version
+[2025-06-20T15:36:20.528Z] debug: 	Saving 1 profile took 1.429ms
+[2025-06-20T15:36:21.374Z] info: 	[Client Request] /fika/update/ping
+[2025-06-20T15:36:31.121Z] info: 	[Client Request] /fika/update/playerdied
+[2025-06-20T15:36:31.257Z] info: 	[Client Request] /client/match/local/end
+[2025-06-20T15:36:31.259Z] debug: 	Raid: factory4_day.Pmc.1750433670 outcome: Killed
+[2025-06-20T15:36:34.211Z] debug: 	[Fika Notification Manager] Deleting client 68557efa0004cd4196f8a1f2
+[2025-06-20T15:36:35.867Z] info: 	[Client Request] /launcher/profile/info
+[2025-06-20T15:36:35.869Z] info: 	[Client Request] /launcher/server/version

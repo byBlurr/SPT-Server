@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "Logging.js",
+    "sourceRoot": "",
+    "sources": [
+        "Logging.ts"
+    ],
+    "names": [],
+    "mappings": ";;;AAAA,IAAY,OAUX;AAVD,WAAY,OAAO;IAEf,mCAAwB,CAAA;IACxB,iCAAsB,CAAA;IACtB,yCAA8B,CAAA;IAC9B,mCAAwB,CAAA;IACxB,qCAA0B,CAAA;IAC1B,4BAAiB,CAAA;IACjB,yBAAc,CAAA;IACd,0BAAe,CAAA;AACnB,CAAC,EAVW,OAAO,uBAAP,OAAO,QAUlB;AAED,IAAY,cAQX;AARD,WAAY,cAAc;IAEtB,iCAAe,CAAA;IACf,0CAAwB,CAAA;IACxB,wCAAsB,CAAA;IACtB,gDAA8B,CAAA;IAC9B,0CAAwB,CAAA;IACxB,4CAA0B,CAAA;AAC9B,CAAC,EARW,cAAc,8BAAd,cAAc,QAQzB"
+}
